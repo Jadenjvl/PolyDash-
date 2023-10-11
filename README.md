@@ -1,2 +1,4 @@
-# PolyDash-
- download this you will be sued Do not repo or copy this or download this you will be sued
+# PolyDash
+Geometry Dash clone game
+
+DEMO: <code><a href="https://jeherillajanwar.github.io/PolyDash/">https://jeherillajanwar.github.io/PolyDash/</a></code>
